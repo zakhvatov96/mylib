@@ -1,3 +1,6 @@
 import './lib/lib';
 
-$('.active').toggle().toggle();
+$('.active').toggleAttribute('lel').toggleAttribute('lel');
+
+
+
