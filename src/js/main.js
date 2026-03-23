@@ -1,6 +1,5 @@
 import './lib/lib';
 
-$('.active').toggleAttribute('lel').toggleAttribute('lel');
-
+console.log($('div').eq(2).find('.some'));
 
 
