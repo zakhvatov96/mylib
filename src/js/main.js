@@ -1,5 +1,3 @@
 import './lib/lib';
 
-console.log($('.some').eq(2).siblings());
-
-
+$('.findme').fadeIn(1800);
